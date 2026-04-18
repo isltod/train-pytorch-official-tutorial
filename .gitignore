@@ -2,6 +2,7 @@
 # AI train
 ptb.*.*
 data/
+*.pth
 
 # supabase
 .env*
